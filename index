@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Scam Demo</title>
+
+<style>
+body{
+    margin:0;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:#efefef;
+}
+
+img{
+    width:100%;
+    max-width:1200px;
+}
+</style>
+
+</head>
+
+<body>
+
+<img src="Slide 16_9 - 1.png">
+
+</body>
+</html>
